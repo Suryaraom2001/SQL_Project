@@ -2,10 +2,12 @@ Event Ticketing System
 
 
 Overview
+
 The Event Ticketing System helps manage events, ticket reservations, and sales efficiently. It is built using MySQL to handle event data, customer information, ticket sales, and reservations.
 
 
 Features
+
 •	Event Management: Manage events with details like name, date, location, and ticket availability.
 •	Customer Management: Track customer details such as name and email address.
 •	Ticket Reservation: Customers can reserve tickets for events.
