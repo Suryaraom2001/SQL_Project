@@ -9,9 +9,13 @@ The Event Ticketing System helps manage events, ticket reservations, and sales e
 Features
 
 •	Event Management: Manage events with details like name, date, location, and ticket availability.
+
 •	Customer Management: Track customer details such as name and email address.
+
 •	Ticket Reservation: Customers can reserve tickets for events.
+
 •	Ticket Sales: Track the sales of tickets and total revenue.
+
 •	Sales Reporting: Generate reports on total sales and reservations.
 
 
